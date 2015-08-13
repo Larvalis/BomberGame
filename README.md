@@ -6,7 +6,9 @@ A project for a small network game, containing a server and a client along with 
 Server and Client: 
 ------------
 The game is run from the 2 files from the folder: `src/game/`
+
 `Server.java`
+
 `Client.java`
 
 The Server needs to be run first, it will control the map and informations about the game, like the score and player placement. When it is run, it will give you the IP address that is used by the client to find the correct server and let you choose the map that is to be played on.
