@@ -11,6 +11,9 @@ The client can then be run multiple times, or from multiple computers. You will 
 
 
 Score:
+
 Moving gives 1 point
+
 Shooting cost 10 points
+
 Killing a player steals 50% of their points
