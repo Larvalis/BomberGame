@@ -10,10 +10,7 @@ The Server needs to be run first, it will control the map and informations about
 The client can then be run multiple times, or from multiple computers. You will need to type in either the IP address or choose local computer. Then choose your Player name and the game will start.
 
 
-Score:
-
-Moving gives 1 point
-
-Shooting cost 10 points
-
-Killing a player steals 50% of their points
+Score: 
+Moving gives 1 point 
+Shooting cost 10 points 
+Killing a player steals 50% of their points 
