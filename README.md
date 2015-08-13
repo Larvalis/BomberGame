@@ -1,7 +1,13 @@
 # BomberGame
 Intro: 
 ------------
-A project for a small network game, containing a server and a client along with nessasery game files.
+A project for a small network game reminding a bit of the old bomberman, containing a server and a client along with nessasery game files.
+
+Requirements:
+------------
+Require Java to be installed (Build with Java version 8).
+
+Most likely only works on windows
 
 Server and Client: 
 ------------
