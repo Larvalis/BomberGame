@@ -2,9 +2,7 @@
 A project for a small network game, containing a server and a client.
 
 The game is run from the 2 files from the folder: src/game/
-
 Server.java
-
 Client.java
 
 
@@ -13,9 +11,6 @@ The client can then be run multiple times, or from multiple computers. You will 
 
 
 Score:
-
 Moving gives 1 point
-
 Shooting cost 10 points
-
 Killing a player steals 50% of their points
