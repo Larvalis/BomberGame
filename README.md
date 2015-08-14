@@ -1,7 +1,7 @@
 # BomberGame
 Intro: 
 ------------
-A project for a small network game using the TCP-protocol reminding a bit of the old bomberman, containing a server and a client along with nessasery game files.
+A project for a small network game using the TCP-protocol through LAN, reminding a bit of the old bomberman, containing a server and a client along with nessasery game files.
 
 Requirements:
 ------------
